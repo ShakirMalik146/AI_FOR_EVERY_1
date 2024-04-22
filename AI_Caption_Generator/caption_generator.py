@@ -5,8 +5,8 @@ import re
 import random
 
 # Define Hugging Face API endpoint and your API token
-API_URL = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
-API_TOKEN = "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"
+API_URL = ""
+API_TOKEN = ""
 
 # Function to query the model and get captions
 def get_caption(image_file):
