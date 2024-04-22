@@ -15,7 +15,7 @@ from openai import OpenAI
 sys.path.append(str(Path(__file__).resolve().parents[2]))
  
 
-apikey = "sk-proj-jMM83ihgfzLAsbsxi3drT3BlbkFJmJVJgk0gAUGJtmlm651S"
+apikey = ""
  
 def main():
     pass
